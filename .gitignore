@@ -1,0 +1,6 @@
+*.pyc
+outputs/
+__pycahce__/
+channel2D/outputs/
+channel2D/Docs/
+*.csv
