@@ -6,8 +6,6 @@
 
 All data files should be inside the correct folder, which is not included in the repository due to its size.
 
-The files should be found in a folder called CFD_Data. Include all files inside the channel2D/ folder. The folder structure inside the repository should look like:
-
 ### Data folder structure
 - pinn-channel/
     - conf/
